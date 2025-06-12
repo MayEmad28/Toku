@@ -28,7 +28,7 @@ This project was created as part of a Flutter learning course.
 - Dart
 - Visual Studio Code
 - Audio & image assets
-
+  
 ---
 
 ## 🚀 How to Run
@@ -38,3 +38,27 @@ git clone https://github.com/MayEmad28/Toku.git
 cd Toku
 flutter pub get
 flutter run
+
+--
+## 📁 Project Structure
+lib/
+├── main.dart
+├── components/
+├── models/
+└── screens/
+assets/
+├── images/
+└── sounds/
+
+
+--
+
+👩‍💻 About
+
+This app was built while following a Flutter course as part of my learning journey.
+No major challenges were faced as the app was guided by the course content.
+
+--
+
+
+
