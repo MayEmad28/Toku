@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/12dc7cee-c41b-453b-92e7-16abcf6c5537
 
 # Toku - Japanese Learning App 🇯🇵
 
@@ -62,7 +61,7 @@ The project was straightforward since it followed the course material step by st
 
 ## Demo
 
-![toku_record-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4e6a9672-578b-4d86-aa41-8feedbc8b211)
+https://github.com/user-attachments/assets/12dc7cee-c41b-453b-92e7-16abcf6c5537
 
 
 ## 🚀 How to Run
