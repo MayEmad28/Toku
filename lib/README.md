@@ -56,6 +56,11 @@ The project was straightforward since it followed the course material step by st
   
 ---
 
+## Demo
+
+![toku_record-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4e6a9672-578b-4d86-aa41-8feedbc8b211)
+
+
 ## 🚀 How to Run
 
 ```bash
@@ -67,11 +72,3 @@ flutter run
 ---
 
 
-
-
-
-
-
-https://github.com/user-attachments/assets/e3a37761-97b6-4e87-be5f-665b13d2bc84
-
-![toku_record-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4e6a9672-578b-4d86-aa41-8feedbc8b211)
