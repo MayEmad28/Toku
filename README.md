@@ -4,7 +4,7 @@
 # Toku - Japanese Learning App 🇯🇵
 
 A beginner-friendly Flutter app to help users learn basic Japanese words and phrases with audio.  
-This project was created as part of a Flutter learning course.
+
 
 ---
 
