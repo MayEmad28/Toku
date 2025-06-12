@@ -29,7 +29,7 @@ assets/
 ├── images/
 └── sounds/
 
-![toku_record-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/76ea2038-bfe2-47a2-ac45-ec41cd58e8b8)
+
 
 ---
 ## About
@@ -66,6 +66,6 @@ flutter run
 
 ---
         
-
+![toku_record-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/76ea2038-bfe2-47a2-ac45-ec41cd58e8b8)
 
 
