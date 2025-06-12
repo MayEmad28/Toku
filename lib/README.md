@@ -39,8 +39,13 @@ cd Toku
 flutter pub get
 flutter run
 
---
-## 📁 Project Structure
+---
+
+## 
+
+https://github.com/user-attachments/assets/77db84a2-030f-4cae-9856-da268147c523
+
+📁 Project Structure
 lib/
 ├── main.dart
 ├── components/
@@ -51,14 +56,22 @@ assets/
 └── sounds/
 
 
---
+---
+## About
+This app was built while following a Flutter development course as a learning exercise.  
+The goal was to practice using widgets, layout building, asset management, and project structure.  
 
-👩‍💻 About
+Key points learned:
+- Flutter widgets and UI structure
+- Playing audio files
+- Organizing files in folders (components, models, screens)
+- Clean and readable code
 
-This app was built while following a Flutter course as part of my learning journey.
-No major challenges were faced as the app was guided by the course content.
+The project was straightforward since it followed the course material step by step.
 
---
+
+https://github.com/user-attachments/assets/c6631a2a-2fc1-401c-bd14-1c1b099de4c1
+
 
 
 
